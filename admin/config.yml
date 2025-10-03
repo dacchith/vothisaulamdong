@@ -13,6 +13,9 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Tiêu đề", name: "title", widget: "string" }
-      - { label: "Ngày đăng", name: "date", widget: "datetime" }
-      - { label: "Nội dung", name: "body", widget: "markdown" }
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string"
+      - label: "Nội dung"
+        name: "body"
+        widget: "markdown"
