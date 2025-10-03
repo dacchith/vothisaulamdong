@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: dacchith/vothisau
+  repo: dacchith/vothisau   # user/repo của bạn
   branch: main
 
 media_folder: "images/uploads"
